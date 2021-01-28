@@ -1,0 +1,218 @@
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /api/students/
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/promotions
+Query string: 
+Body: {
+    "Semester": 7,
+    "Studies": "Computer Science"
+}
+
+Method: POST
+Path: /api/enrollments/promotions
+Query string: 
+Body: {
+    "Semester": 6,
+    "Studies": "Informatyka zaoczna"
+}
+
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast/s9817
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast.s9817
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast/s9817
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: GET
+Path: /weatherforecast
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s9817",
+	"password" : "Testowe"
+}
+
+Method: GET
+Path: /api/enrollments
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s9817",
+	"password" : "Testowe"
+}
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s9817",
+	"password" : "Testowe"
+}
+
+Method: GET
+Path: /api/enrollments
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s9817",
+	"password" : "Testowe"
+}
+
+Method: GET
+Path: /api/enrollments
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s9817",
+	"password" : "Testowe"
+}
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s98761",
+	"password" : "Testowe"
+}
+
+Method: GET
+Path: /api/enrollments
+Query string: 
+Body: 
+
+Method: GET
+Path: /favicon.ico
+Query string: 
+Body: 
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s98761",
+	"password" : "Testowe"
+}
+
+Method: POST
+Path: /api/enrollments/authorize
+Query string: 
+Body: {
+	"login" : "s98761",
+	"password" : "Testowe"
+}
+
